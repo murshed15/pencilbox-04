@@ -1,0 +1,54 @@
+/* Custom Styles */
+body {
+    padding-top: 0px;
+  }
+  
+  nav .nav-link:hover {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+  }
+  
+  footer {
+    background-color: #000;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+
+#bannerss{
+    background-image: url(../images/banner01.jpg);
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Additional custom styling for the Fan's Feedback */
+blockquote {
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
+.carousel-item img {
+    max-width: 100px;
+    border: 2px solid #ddd;
+    padding: 5px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgb(211, 209, 209);
+}
+.blockquote-footer{
+    padding-top: 10px;
+}
+.navbar-brand img{
+    height: 100px;
+    width: 150px;
+}
+nav .nav-link:hover {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    color: #000;
+}
